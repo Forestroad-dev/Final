@@ -1,6 +1,4 @@
-Here's a structured `README.md` for your project on ECG analysis, detailing its context, objectives, impact, results, and setup instructions.
 
----
 
 # ECG Data Analysis Dashboard
 
