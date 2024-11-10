@@ -52,8 +52,7 @@ Ensure you have the following installed on your machine:
 ### Installation Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ecg-dashboard.git
-   cd ecg-dashboard
+   git clone (https://github.com/Forestroad-dev/Final.git)
    ```
 
 2. **Install dependencies**:
